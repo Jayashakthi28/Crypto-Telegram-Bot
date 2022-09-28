@@ -1,10 +1,11 @@
 import psycopg2
 
 mydb = psycopg2.connect(
-  host="ec2-34-195-143-54",
-  database="jsv",
-  user="jsv",
-  password="jsv",
+  host="dpg-ccpr1b2en0hr84ne97v0-a",
+  database="crypto_telegram_bot_db",
+  user="crypto_telegram_bot_db_user",
+  password="MME0mKjDWvE3ushDhNusLGokqfFrQgDk",
+  port="5432"
 )
 # mydb = psycopg2.connect(
 #   host="localhost",
