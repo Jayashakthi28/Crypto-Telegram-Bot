@@ -33,7 +33,10 @@ while 1:
             bot.send_message(chat_id,text)
         if(datetime_ist=="20"):
             text=f'<b><i>{data["quote"]}</i></b>\n\n<b>Good Night! Sweet Dreams...</b>'
+        try:   
             bot.send_message(chat_id,text)
+        except:
+            pass
     time.sleep(320)
     sqler.list_updater()
     for chat_id in sqler.login_list:
