@@ -1,0 +1,3 @@
+tak='1733358834:AAGZWnaRW39b3OF-4Z8eFJJ8RUEoZEUgrus'
+binance_sec_key='gkPkCktPfdjPVDj0oWL3gGDu5wfi40osVShO5qcx6KULCvueIxg8uvGDQTyiflTY'
+binance_api_key='84zvYdUVNaigxq19mHhPsSnqKRtF07bckJTsRCsmRJPo5BhpkhCiYSqkfWCNB35g'
